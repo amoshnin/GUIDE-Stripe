@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404550704994",
+    "firebase_url": "https://easy-service-dc8a5.firebaseio.com",
+    "project_id": "easy-service-dc8a5",
+    "storage_bucket": "easy-service-dc8a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404550704994:android:efab1b91255225804ed63b",
+        "android_client_info": {
+          "package_name": "com.easyservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404550704994-2gk94esct5en98ud1jvdq508mt6d635v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easyservice",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "404550704994-8o7ah64bescpu9ljcudgdgm9gs8kiprk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_-3z_sFJheO5YuAOgeIDg5Lie5GhjCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404550704994-8o7ah64bescpu9ljcudgdgm9gs8kiprk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
